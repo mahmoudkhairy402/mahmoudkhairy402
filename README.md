@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Khairy</h1>
 
-<p align="center">
+
  ![I am Frontend Developer](https://ardas-it.com/uploads/images/blogs/giph.gif)
-</p>
+
 
 <p align="center">
   <strong>I am a Software Engineer with a keen interest in Web Development, specializing in Frontend ReactJS to create dynamic and user-friendly interfaces. Let's bring your ideas to life!</strong>
