@@ -2,7 +2,11 @@
 
 <br />
 
-I'm a frontend developer reactjs
+#### I am Frontend Developer (React js)
+![I am Frontend Developer (React js)](https://iconscout.com/lottie-animation/github-8694700)
+
+
+I'M A Software Engineer With A Keen Interest In Web Development, Specializing In Frontend  ReactJS To Create Dynamic And User-Friendly Interfaces. Let'S Bring Your Ideas To Life! |
 
 skills
 * html
