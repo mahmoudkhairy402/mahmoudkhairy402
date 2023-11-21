@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Khairy</h1>
 
 <p align="center">
-  <img alt="Frontend Developer (React js)" src="[https://iconscout.com/lottie-animation/github-8694700](https://ardas-it.com/uploads/images/blogs/giph.gif)">
+ ![I am Frontend Developer](https://ardas-it.com/uploads/images/blogs/giph.gif)
 </p>
 
 <p align="center">
