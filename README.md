@@ -68,13 +68,13 @@ Skills:
 
 
 
- <p align='center'>
+ <div align='center'>
    
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudkhairy402)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkhairy402)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mahmoudkhairy402&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
