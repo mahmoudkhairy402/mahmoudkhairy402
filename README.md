@@ -50,7 +50,7 @@ Skills:
 
 
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/mahmoudkhairy402">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill: #222;">
   </a>
@@ -63,7 +63,7 @@ Skills:
   <a href="https://www.instagram.com/mahmoud_khairy.74/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" style="fill: #FF2D44;">
   </a>
-</p>
+</div>
 
 
 
