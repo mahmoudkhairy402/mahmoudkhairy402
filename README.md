@@ -15,7 +15,7 @@ Skills:
 * html
 * css
 * javascript
-* * ES6
+* ES6
 * RESTful Api
 * Bootstrap
 * Sass
